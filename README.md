@@ -1,5 +1,5 @@
-# AmendmentH_VicePresidentElected
-Amendment to the US Constitution to elect the Vice President separately from other offices.
+# AmendmentI_AttyGeneralElected
+Amendment to the US Constitution to elect the Attorney General separately from other offices.
 
 This is one of 10 Amendements Vector Hasting proposes to the US Constitution to preserve Freedom 
 in the 21st Century. 
